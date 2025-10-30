@@ -11,7 +11,7 @@
   "dependencies": {
     "chiasm": "^0.2.3",
     "chiasm-component": "^0.2.3",
-    "chiasm-dsv-dataset": "^0.2.2",
+    "chiasm-dsv-dataset": "^0.3.1",
     "chiasm-layout": "^0.2.4",
     "chiasm-links": "^0.2.3",
     "d3": "^3.5.6",
