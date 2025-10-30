@@ -9,7 +9,7 @@
   "author": "Curran Kelleher",
   "license": "MIT",
   "dependencies": {
-    "chiasm": "^0.2.3",
+    "chiasm": "^0.3.0",
     "chiasm-component": "^0.2.3",
     "chiasm-layout": "^0.2.4",
     "d3": "^3.5.6",
